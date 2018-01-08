@@ -113,7 +113,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                             Toast.makeText(MainActivity.this,"Ok",Toast.LENGTH_SHORT).show();
                         }
                     })
-                    .OnNegativeClicked(null)
                     .build();
         }
     }
