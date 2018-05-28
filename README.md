@@ -11,7 +11,7 @@ Add this to your module's `build.gradle` file:
 ```gradle
 dependencies {
 	...
-	compile 'com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2'
+	implementation 'com.bestsoft32.tayyab:tt-fancy-gif-dialog:1.0.2'
 }
 ```
 <h2> TT Fancy Gif Dialog</h2>
